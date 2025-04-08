@@ -1,0 +1,5 @@
+Learning outcomes:
+This merge incorporates updates from GitHub into my local branch. 
+Through this lab, I learned the fundamentals of HTML structure, 
+Git version control, and how to properly maintain synchronization 
+between local and remote repositories.
